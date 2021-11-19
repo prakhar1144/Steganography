@@ -4,7 +4,7 @@
 
 ### Steps Involved
 
-* Put your secret message (text here) in [mesaage.txt](https://github.com/prakhar1144/Steganography/blob/main/message.txt)
+* Put your secret message (text here) in [message.txt](https://github.com/prakhar1144/Steganography/blob/main/message.txt)
 * Select the image under which you want to hide your message.
 * Run the [encode.m]() script to encode the secret message in image provided.
 * Previous step will generate a [stego]() image, which looks exactly same as the [image]() provided, but contains the secret message encoded
